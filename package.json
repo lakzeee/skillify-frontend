@@ -9,7 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@headlessui/tailwindcss": "^0.2.0",
+    "@heroicons/react": "1.0.6",
+    "@tailwindcss/typography": "^0.5.9",
+    "@tremor/react": "^3.6.0",
     "autoprefixer": "10.4.14",
+    "daisyui": "^3.5.0",
     "eslint": "8.46.0",
     "eslint-config-next": "13.4.12",
     "next": "13.4.12",
